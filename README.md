@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinoji
-- 👀 I’m interested in quantum mechanics and Pchem in general
-- 🌱 I’m currently learning coding and biochemistry
+- 👀 I’m interested in quantum mechanics and Stat Mechanics in general
+- 🌱 I’m studying computational biochemistry 
 - 💞️ I’m looking to collaborate on biochem related topics
 - 📫 How to reach me （twitter.com/pinoji123）
 <!---
