@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pinoji
-- 👀 I’m interested in quantum mechanics and Stat Mechanics in general
-- 🌱 I’m studying computational biochemistry 
+- 👋 Hi, I’m Hideya Koizumi 
+- 👀 I teach Physical Chhemistry &b I am interested in Quantum Mechanics code and Stat Mechanics in general
+- 🌱 My current interest is in computational biochemistry 
 - 💞️ I’m looking to collaborate on biochem related topics
 - 📫 How to reach me （hkoizumi at astate dot edu）
 <!---
